@@ -125,7 +125,7 @@ body{
 }
 /* First-screen*/
 .first-screen{
-    background-image: url(../image/first-screen.png);
+    background-image: url(../image/first-screen.webp);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
